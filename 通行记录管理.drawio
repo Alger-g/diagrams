@@ -1,35 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T09:30:56.569Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="vZL0Vsn-WwfNM03yn-Uz" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T08:02:28.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="W4xJKa-bLiLbOr2ykFba" version="24.6.3" type="github">
   <diagram name="第 1 页" id="wFYGDrkEZFc5aQVPpxKU">
-    <mxGraphModel dx="1242" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AKyetFjXOJKs2to3B-x5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AKyetFjXOJKs2to3B-x5-1" target="AKyetFjXOJKs2to3B-x5-8">
+        <mxCell id="AKyetFjXOJKs2to3B-x5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AKyetFjXOJKs2to3B-x5-1" target="AKyetFjXOJKs2to3B-x5-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="515" y="270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="530" y="255" />
+              <mxPoint x="570" y="255" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AKyetFjXOJKs2to3B-x5-1" value="通行记录库" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="450" y="350" width="130" height="60" as="geometry" />
+        <mxCell id="AKyetFjXOJKs2to3B-x5-1" value="通行记录库" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="490" y="350" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AKyetFjXOJKs2to3B-x5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AKyetFjXOJKs2to3B-x5-2" target="AKyetFjXOJKs2to3B-x5-1">
+        <mxCell id="l1JXLAZ_lge7UiaFNTZW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AKyetFjXOJKs2to3B-x5-2" target="l1JXLAZ_lge7UiaFNTZW-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AKyetFjXOJKs2to3B-x5-6" value="通行记录信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AKyetFjXOJKs2to3B-x5-4">
-          <mxGeometry x="-0.175" y="4" relative="1" as="geometry">
+        <mxCell id="l1JXLAZ_lge7UiaFNTZW-5" value="通行记录信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l1JXLAZ_lge7UiaFNTZW-3">
+          <mxGeometry x="-0.0945" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AKyetFjXOJKs2to3B-x5-2" value="子系统适配器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="290" width="110" height="180" as="geometry" />
+        <mxCell id="AKyetFjXOJKs2to3B-x5-2" value="子系统适配器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="290" width="110" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="AKyetFjXOJKs2to3B-x5-3" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AKyetFjXOJKs2to3B-x5-3" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="165" width="110" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="AKyetFjXOJKs2to3B-x5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AKyetFjXOJKs2to3B-x5-8" target="AKyetFjXOJKs2to3B-x5-3">
+        <mxCell id="AKyetFjXOJKs2to3B-x5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AKyetFjXOJKs2to3B-x5-8" target="AKyetFjXOJKs2to3B-x5-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="830" y="250" />
@@ -37,8 +37,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AKyetFjXOJKs2to3B-x5-8" value="查询通行记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="230" width="100" height="50" as="geometry" />
+        <mxCell id="l1JXLAZ_lge7UiaFNTZW-6" value="通行记录列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AKyetFjXOJKs2to3B-x5-10">
+          <mxGeometry x="-0.1877" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AKyetFjXOJKs2to3B-x5-8" value="查询通行记录" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="230" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l1JXLAZ_lge7UiaFNTZW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="l1JXLAZ_lge7UiaFNTZW-1" target="AKyetFjXOJKs2to3B-x5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l1JXLAZ_lge7UiaFNTZW-1" value="新增通行记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="355" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
