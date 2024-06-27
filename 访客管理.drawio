@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T10:22:26.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="7adJeO8djc7oHUcrXR8n" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T10:26:48.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="2rDaIZaXw0TEHTIBAbNB" version="24.6.3" type="github">
   <diagram name="第 1 页" id="emYKHJB1NBSYCXd7v77e">
     <mxGraphModel dx="1313" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qVtAXlUNlhjztxOwP9lv-14" value="新增访客记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qVtAXlUNlhjztxOwP9lv-13">
+        <mxCell id="qVtAXlUNlhjztxOwP9lv-14" value="新增访客授权记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qVtAXlUNlhjztxOwP9lv-13">
           <mxGeometry x="-0.2264" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
