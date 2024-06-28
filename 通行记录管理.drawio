@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T08:03:10.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="unq_72u8bU-azONYoGfc" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-28T05:47:38.649Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="k2nB_P49S7nNv8Lwk4-r" version="24.6.4" type="github">
   <diagram name="第 1 页" id="wFYGDrkEZFc5aQVPpxKU">
-    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,10 +15,10 @@
         <mxCell id="AKyetFjXOJKs2to3B-x5-1" value="通行记录库" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" parent="1" vertex="1">
           <mxGeometry x="490" y="350" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l1JXLAZ_lge7UiaFNTZW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AKyetFjXOJKs2to3B-x5-2" target="l1JXLAZ_lge7UiaFNTZW-1">
+        <mxCell id="l1JXLAZ_lge7UiaFNTZW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AKyetFjXOJKs2to3B-x5-2" target="l1JXLAZ_lge7UiaFNTZW-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l1JXLAZ_lge7UiaFNTZW-5" value="通行记录信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l1JXLAZ_lge7UiaFNTZW-3">
+        <mxCell id="l1JXLAZ_lge7UiaFNTZW-5" value="通行记录信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="l1JXLAZ_lge7UiaFNTZW-3" vertex="1" connectable="0">
           <mxGeometry x="-0.0945" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -37,7 +37,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1JXLAZ_lge7UiaFNTZW-6" value="通行记录列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AKyetFjXOJKs2to3B-x5-10">
+        <mxCell id="l1JXLAZ_lge7UiaFNTZW-6" value="通行记录列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AKyetFjXOJKs2to3B-x5-10" vertex="1" connectable="0">
           <mxGeometry x="-0.1877" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -45,11 +45,29 @@
         <mxCell id="AKyetFjXOJKs2to3B-x5-8" value="查询通行记录" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="230" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="l1JXLAZ_lge7UiaFNTZW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="l1JXLAZ_lge7UiaFNTZW-1" target="AKyetFjXOJKs2to3B-x5-1">
+        <mxCell id="l1JXLAZ_lge7UiaFNTZW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="l1JXLAZ_lge7UiaFNTZW-1" target="AKyetFjXOJKs2to3B-x5-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l1JXLAZ_lge7UiaFNTZW-1" value="同步通行记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pPPO1SHydczsC0jmZyMP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l1JXLAZ_lge7UiaFNTZW-1" target="pPPO1SHydczsC0jmZyMP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l1JXLAZ_lge7UiaFNTZW-1" value="同步通行记录" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="305" y="355" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pPPO1SHydczsC0jmZyMP-2" value="访客表" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="490" y="640" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pPPO1SHydczsC0jmZyMP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pPPO1SHydczsC0jmZyMP-3" target="pPPO1SHydczsC0jmZyMP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pPPO1SHydczsC0jmZyMP-3" value="判断访客到访状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="490" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pPPO1SHydczsC0jmZyMP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pPPO1SHydczsC0jmZyMP-4" target="pPPO1SHydczsC0jmZyMP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pPPO1SHydczsC0jmZyMP-4" value="更新访客到访状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="640" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
