@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T06:26:14.049Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="8iQHdqLu7P6n0KYSWMoC" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-28T07:17:59.688Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="F3J-1PetuDGsh8Rdf4qQ" version="24.6.4" type="github">
   <diagram name="第 1 页" id="emYKHJB1NBSYCXd7v77e">
     <mxGraphModel dx="1242" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -62,8 +62,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KNgRye7F1tS_ezLC6Gzn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0phpjLP4zlJQy8E7lRai-6" target="qVtAXlUNlhjztxOwP9lv-15">
+        <mxCell id="KNgRye7F1tS_ezLC6Gzn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0phpjLP4zlJQy8E7lRai-6" target="KNgRye7F1tS_ezLC6Gzn-11">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="393" y="500" as="targetPoint" />
             <Array as="points">
               <mxPoint x="393" y="170" />
             </Array>
@@ -180,12 +181,6 @@
         <mxCell id="qVtAXlUNlhjztxOwP9lv-12" value="访客-授权记录表" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" parent="1" vertex="1">
           <mxGeometry x="590" y="570" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KNgRye7F1tS_ezLC6Gzn-12" value="新增访客信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVtAXlUNlhjztxOwP9lv-15" target="KNgRye7F1tS_ezLC6Gzn-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qVtAXlUNlhjztxOwP9lv-15" value="延时队列" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="500" width="125" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="6EpYckCnXORw8MfI2EPD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6EpYckCnXORw8MfI2EPD-2" target="qVtAXlUNlhjztxOwP9lv-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -223,8 +218,8 @@
             <mxPoint x="10" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KNgRye7F1tS_ezLC6Gzn-11" value="访客到访状态处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="337.5" y="636" width="110" height="50" as="geometry" />
+        <mxCell id="KNgRye7F1tS_ezLC6Gzn-11" value="延时队列处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="600" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
