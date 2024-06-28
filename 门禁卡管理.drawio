@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T09:37:04.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="A7g0yA5uLXnPxazDCO5C" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-28T05:57:05.443Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="zJ-5tULnq-WJOajxccXz" version="24.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -25,7 +25,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uYdnHk__F4jMHx15urfL-41" value="员工id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uYdnHk__F4jMHx15urfL-39" vertex="1" connectable="0">
+        <mxCell id="uYdnHk__F4jMHx15urfL-41" value="删除员工信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uYdnHk__F4jMHx15urfL-39" vertex="1" connectable="0">
           <mxGeometry x="-0.2107" relative="1" as="geometry">
             <mxPoint x="19" as="offset" />
           </mxGeometry>
@@ -40,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hi_jlIFNOk76v_s6aIho-0" value="员工id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l-zE2uATleMejMU8aGmf-2">
+        <mxCell id="hi_jlIFNOk76v_s6aIho-0" value="员工离职信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="l-zE2uATleMejMU8aGmf-2" vertex="1" connectable="0">
           <mxGeometry x="-0.1108" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
